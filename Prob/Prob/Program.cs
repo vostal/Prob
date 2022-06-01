@@ -7,7 +7,8 @@ namespace Prob
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Ченчиков");
+            Console.WriteLine("Ченчиков"); 
+            Console.WriteLine("Мурзыкин");
         }
     }
 }
