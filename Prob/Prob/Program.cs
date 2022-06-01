@@ -10,6 +10,7 @@ namespace Prob
             Console.WriteLine("Ченчиков"); 
             Console.WriteLine("Мурзыкин");
             Console.WriteLine("Борджян");
+            Console.WriteLine("Тараканова");
         }
     }
 }
